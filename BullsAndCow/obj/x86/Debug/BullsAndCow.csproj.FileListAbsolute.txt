@@ -1,0 +1,8 @@
+C:\Users\Нико\documents\visual studio 2010\Projects\BullsAndCow\BullsAndCow\bin\Debug\BullsAndCow.exe
+C:\Users\Нико\documents\visual studio 2010\Projects\BullsAndCow\BullsAndCow\bin\Debug\BullsAndCow.pdb
+C:\Users\Нико\documents\visual studio 2010\Projects\BullsAndCow\BullsAndCow\obj\x86\Debug\BullsAndCow.Form1.resources
+C:\Users\Нико\documents\visual studio 2010\Projects\BullsAndCow\BullsAndCow\obj\x86\Debug\BullsAndCow.Properties.Resources.resources
+C:\Users\Нико\documents\visual studio 2010\Projects\BullsAndCow\BullsAndCow\obj\x86\Debug\BullsAndCow.csproj.GenerateResource.Cache
+C:\Users\Нико\documents\visual studio 2010\Projects\BullsAndCow\BullsAndCow\obj\x86\Debug\BullsAndCow.exe
+C:\Users\Нико\documents\visual studio 2010\Projects\BullsAndCow\BullsAndCow\obj\x86\Debug\BullsAndCow.pdb
+C:\Users\Нико\documents\visual studio 2010\Projects\BullsAndCow\BullsAndCow\obj\x86\Debug\BullsAndCow.csprojResolveAssemblyReference.cache
